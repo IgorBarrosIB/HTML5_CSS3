@@ -1,7 +1,7 @@
 # HTML5 e CSS3 Essentials
 
 ## Descrição do Projeto
-<p>Estudando front-end criando meu portifolio com HTML5 e CSS3</p>
+<p>Estudando front-end criando meu portfólio com HTML5 e CSS3</p>
 
 ## Tecnologia usada no Projeto
 <ul>
