@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 <p>Estudando front-end criando meu portifolio com HTML5 e CSS3</p>
 
-## Teconologia usada no Projeto
+## Tecnologia usada no Projeto
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
