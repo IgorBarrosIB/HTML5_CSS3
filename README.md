@@ -22,5 +22,5 @@
   <li>Servindo Microformatos</li>
 </ul>
 
-## Imagem demostrativo do projeto 
+## Imagem demonstrativa do projeto 
 <a href="http://projetopratico01.tk" target="_blank">![alt text](http://projetopratico01.tk/screencapture.png)</a>
