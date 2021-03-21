@@ -24,4 +24,4 @@
 </ul>
 
 ## Imagem demostrativo do projeto 
-<a href="http://projetopratico01.tk">![alt text](http://projetopratico01.tk/screencapture.png)</a>
+<a href="http://projetopratico01.tk" target="_blank">![alt text](http://projetopratico01.tk/screencapture.png)</a>
