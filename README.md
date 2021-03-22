@@ -25,3 +25,7 @@
 
 ## Imagem demonstrativa do projeto 
 <a href="http://projetopratico01.tk" target="_blank">![alt text](http://projetopratico01.tk/screencapture.png)</a>
+
+## Sobre o Projeto 
+
+<h4>Este projeto foi inspirado no curso do youtube pelo <a href="https://www.upinside.com.br"> upinside </a></h4>
